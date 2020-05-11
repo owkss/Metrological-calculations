@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/icon.png</file>
+        <file>images/quit.png</file>
+        <file>images/add.png</file>
+        <file>images/delete.png</file>
+        <file>images/edit.png</file>
+        <file>images/deleterow.png</file>
+        <file>images/integration.png</file>
+        <file>images/decimal_more.png</file>
+        <file>images/decimal_less.png</file>
+        <file>images/graphic.png</file>
+        <file>images/limit.png</file>
+        <file>images/calc.png</file>
+        <file>images/question.png</file>
+        <file>images/saveas.png</file>
+        <file>images/down.png</file>
+        <file>images/up.png</file>
+        <file>images/return.png</file>
+        <file>images/clear.png</file>
+        <file>images/clean.png</file>
+        <file>images/table.png</file>
+        <file>images/input.png</file>
+        <file>images/excel.png</file>
+        <file>images/csv.png</file>
+        <file>images/odf.png</file>
+    </qresource>
+</RCC>
